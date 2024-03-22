@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "auth-api"
+		},
+		{
+			"path": "userdata-api"
+		},
+		{
+			"path": "achievement-api"
+		},
+		{
+			"path": "auth-pylib"
+		}
+	],
+	"settings": {}
+}
