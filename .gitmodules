@@ -1,18 +1,18 @@
 [submodule "achievement-api"]
 	path = achievement-api
-	url = ./achievement-api
+	url = git@github.com:profcomff/achievement-api.git
 [submodule "auth-api"]
 	path = auth-api
-	url = ./auth-api
+	url = git@github.com:profcomff/auth-api.git
 [submodule "auth-pylib"]
 	path = auth-pylib
-	url = ./auth-pylib
+	url = git@github.com:profcomff/auth-pylib.git
 [submodule "userdata-api"]
 	path = userdata-api
-	url = ./userdata-api
+	url = git@github.com:profcomff/userdata-api.git
 [submodule "webapp-ui"]
 	path = webapp-ui
-	url = ./webapp-ui
+	url = git@github.com:profcomff/webapp-ui.git
 [submodule "timetable-api"]
 	path = timetable-api
 	url = git@github.com:profcomff/timetable-api.git
@@ -24,7 +24,7 @@
 	url = git@github.com:profcomff/logging-lib.git
 [submodule "marketing-api"]
 	path = marketing-api
-	url = git@github.com:profcomff/marketing-api
+	url = git@github.com:profcomff/marketing-api.git
 [submodule "preparation-timetable-data"]
 	path = preparation-timetable-data
-	url = git@github.com:profcomff/preparation-timetable-data
+	url = git@github.com:profcomff/preparation-timetable-data.git
